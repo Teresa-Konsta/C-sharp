@@ -1,0 +1,10 @@
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\bin\Debug\AccountsApp.exe.config
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\bin\Debug\AccountsApp.exe
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\bin\Debug\AccountsApp.pdb
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.csprojAssemblyReference.cache
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.frmAccounts.resources
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.Properties.Resources.resources
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.csproj.GenerateResource.cache
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.csproj.CoreCompileInputs.cache
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.exe
+D:\Centennial\semester 2\Programming 2 - COMP 123\test2\Tereza_Konstari_301065539\AccountsApp\obj\Debug\AccountsApp.pdb
