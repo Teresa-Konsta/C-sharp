@@ -1,0 +1,6 @@
+C:\Users\la979\OneDrive\문서\Centennial\Semester 2\Programming 2 - COMP 123\Assignment\sec003-7_COMP123_02\sec003-7_COMP123_02\bin\Debug\sec003-7_COMP123_02.exe.config
+C:\Users\la979\OneDrive\문서\Centennial\Semester 2\Programming 2 - COMP 123\Assignment\sec003-7_COMP123_02\sec003-7_COMP123_02\bin\Debug\sec003-7_COMP123_02.exe
+C:\Users\la979\OneDrive\문서\Centennial\Semester 2\Programming 2 - COMP 123\Assignment\sec003-7_COMP123_02\sec003-7_COMP123_02\bin\Debug\sec003-7_COMP123_02.pdb
+C:\Users\la979\OneDrive\문서\Centennial\Semester 2\Programming 2 - COMP 123\Assignment\sec003-7_COMP123_02\sec003-7_COMP123_02\obj\Debug\sec003-7_COMP123_02.csprojAssemblyReference.cache
+C:\Users\la979\OneDrive\문서\Centennial\Semester 2\Programming 2 - COMP 123\Assignment\sec003-7_COMP123_02\sec003-7_COMP123_02\obj\Debug\sec003-7_COMP123_02.exe
+C:\Users\la979\OneDrive\문서\Centennial\Semester 2\Programming 2 - COMP 123\Assignment\sec003-7_COMP123_02\sec003-7_COMP123_02\obj\Debug\sec003-7_COMP123_02.pdb

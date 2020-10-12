@@ -1,0 +1,6 @@
+C:\Users\young\Desktop\Centennial College\COMP123\Assignment\Assignment2\Younga-Jin_Sec003_COMP123_02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\young\Desktop\Centennial College\COMP123\Assignment\Assignment2\Younga-Jin_Sec003_COMP123_02\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\young\Desktop\Centennial College\COMP123\Assignment\Assignment2\Younga-Jin_Sec003_COMP123_02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\young\Desktop\Centennial College\COMP123\Assignment\Assignment2\Younga-Jin_Sec003_COMP123_02\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\young\Desktop\Centennial College\COMP123\Assignment\Assignment2\Younga-Jin_Sec003_COMP123_02\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\young\Desktop\Centennial College\COMP123\Assignment\Assignment2\Younga-Jin_Sec003_COMP123_02\Assignment02\obj\Debug\Assignment02.pdb
