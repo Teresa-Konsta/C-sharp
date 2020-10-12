@@ -1,0 +1,9 @@
+C:\Users\Tess\Desktop\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Tess\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Tess\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Tess\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Tess\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Tess\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+D:\Study\IT\Programming\C#\code works\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Study\IT\Programming\C#\code works\Snake\Snake\obj\Debug\Snake.exe
+D:\Study\IT\Programming\C#\code works\Snake\Snake\obj\Debug\Snake.pdb
