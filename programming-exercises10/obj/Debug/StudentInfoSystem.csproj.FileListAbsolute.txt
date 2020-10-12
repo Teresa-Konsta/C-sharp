@@ -1,0 +1,10 @@
+C:\Users\aderson\source\repos\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\aderson\source\repos\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\aderson\source\repos\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.frmStudent.resources
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\aderson\source\repos\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
